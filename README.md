@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ne0-1 aka Felix Borum Burmester
-- 👀 I’m interested in AI and machine learning.
-- 🌱 I’m currently learning everything there is to know about graph theory and the modeling machine learning to graphs.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Felix;I+study+Msc+in+Human-Centered+AI;At+The+Technical+University+of+Denmark)](https://git.io/typing-svg)
 
 
 <!---
