@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=Hello%2C+my+name+is+Felix;I+study+Msc+in+Human-Centered+AI;At+The+Technical+University+of+Denmark;I+Work+At+Capacit+Where+I+Do+AI+Stuff)](https://git.io/typing-svg)
 
-## Publications:
-Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model: https://proceedings.mlr.press/v206/nakis23a.html
-
 ## Areas of Interest:
 Graph Representation Learning
 
@@ -21,6 +18,10 @@ Technical University of Denmark (DTU) - *Primary University 2019-Now)*
 University of Technology Sydney (UTS) - *Exchange 2023*
 
 Ecole Polytecnique Francaise Lausanne (EPFL) - *Exchange 2021*
+
+## Publications:
+Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model: https://proceedings.mlr.press/v206/nakis23a.html
+
 <!---
 Ne0-1/Ne0-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
