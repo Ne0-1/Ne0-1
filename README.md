@@ -1,4 +1,4 @@
-[<img src="https://giphy.com/embed/SVgCHJ2n35EA6XFPpO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-tunnel-crypto-currency-SVgCHJ2n35EA6XFPpO">via GIPHY</a></p>]
+[<img src="https://giphy.com/embed/SVgCHJ2n35EA6XFPpO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=Hello%2C+my+name+is+Felix;I+study+Msc+in+Human-Centered+AI;At+The+Technical+University+of+Denmark;I+Work+At+Capacit+Where+I+Do+AI+Stuff)](https://git.io/typing-svg)
 
