@@ -17,7 +17,7 @@ Technical University of Denmark (DTU) - *Primary University 2019-Now)*
 
 University of Technology Sydney (UTS) - *Exchange 2023*
 
-Ecole Polytecnique Francaise Lausanne (EPFL) - *Exchange 2021*
+École Polytechnique Fédérale de Lausanne (EPFL) - *Exchange 2021*
 
 ## Publications:
 Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model: https://proceedings.mlr.press/v206/nakis23a.html
