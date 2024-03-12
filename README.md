@@ -4,11 +4,11 @@
 Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model: https://proceedings.mlr.press/v206/nakis23a.html
 
 ## Affiliations:
-Technical University of Denmark (DTU)
+Technical University of Denmark (DTU) - Primary University
 
-Ecole Polytecnique Francaise Lausanne (EPFL)
+Ecole Polytecnique Francaise Lausanne (EPFL) - Exchange 2021
 
-University of Technology Sydney (UTS)
+University of Technology Sydney (UTS) - Exchange 2023
 <!---
 Ne0-1/Ne0-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
