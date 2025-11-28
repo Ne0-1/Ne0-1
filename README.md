@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hello%2C+my+name+is+Felix;I+have+a+background+in+Human-Centered+AI;At+The+Technical+University+of+Denmark;I+Work+At+Lån+\&+Spar+Where+I+Do+AI+Stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hello%2C+my+name+is+Felix;I+have+a+background+in+Human-Centered+AI;At+The+Technical+University+of+Denmark;I+Work+At+Lån+Og+Spar+Where+I+Do+AI+Stuff)](https://git.io/typing-svg)
 
 ## Areas of Interest:
 Graph Representation Learning
